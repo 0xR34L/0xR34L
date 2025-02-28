@@ -62,3 +62,43 @@ Artificial intelligence plays a key role in the functioning of the networked sta
 - **Personalized AI assistants** - help with navigation, learning and working
 - **Automated services** - legal advice, financial management, user support
 - **Ethics and regulation** - mechanism for controlling AI actions through DAOs
+
+## **6. Economic model**
+
+- **User Earnings**:
+  - Play-to-Earn mechanics
+  - Content creation and NFT
+  - Participate in DAO management
+  - Providing analytic access to digital persona data (for marketing and social research)
+  - Using digital personas as virtual actors to record educational, marketing and entertainment content
+  - Providing digital assets (such as virtual land or locations) for marketing and other activities
+- **Government revenue**:
+  - Transaction taxes
+  - Sale of digital assets (NFT, virtual real estate)
+  - Corporate services and advertising
+
+## **7. Development stages**
+
+1. **MVP (Minimum Viable Product):**
+   - Launch of Web3 platform with basic features
+   - Initial integration of the AI and meta-universe
+2. **Ecosystem development:**
+   - Adding new services (markets, schools, business centers)
+   - Attracting users and building a community
+3. **Global scaling:**
+   - Integration with real services
+   - Development of international digital citizenship
+
+## **8. Use cases and scenarios**
+
+- **Education**: Virtual universities and training with AI tutors
+- **Business**: Jobs and startups in the meta-universe
+- **Public administration**: DAOs instead of traditional governments
+- **Social Interactions**: Communication in digital spaces
+- **Digital Personalities**: Artificial Opinion Leaders, Assistants and Consultants
+
+## **9. Conclusion**
+
+Our project represents an innovative vision for the future of digital nations. We are creating not just a meta-universe, but a fully autonomous ecosystem where blockchain, artificial intelligence and decentralized governance technologies are shaping a new social and economic order.
+
+**We invite investors, developers and enthusiasts to take part in shaping the future!**
