@@ -106,5 +106,5 @@ Our project represents an innovative vision for the future of digital nations. W
 ## **10. Contacts and Social networks**
 
 - **X**: https://x.com/0xR34L
-- **LinkedIn**: https://www.linkedin.com/in/0xr/
+- **LinkedIn**: https://www.linkedin.com/in/0xR/
 - **Telegram**: https://t.me/OxR34L
