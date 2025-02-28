@@ -102,3 +102,9 @@ Artificial intelligence plays a key role in the functioning of the networked sta
 Our project represents an innovative vision for the future of digital nations. We are creating not just a meta-universe, but a fully autonomous ecosystem where blockchain, artificial intelligence and decentralized governance technologies are shaping a new social and economic order.
 
 **We invite investors, developers and enthusiasts to take part in shaping the future!**
+
+## **10. Contacts and Social networks**
+
+- **X**: https://x.com/0xR34L
+- **LinkedIn**: https://www.linkedin.com/in/0xr/
+- **Telegram**: https://t.me/OxR34L
