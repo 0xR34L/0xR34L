@@ -40,7 +40,7 @@ The metaverse is the basic space of existence of the networked state. It is a vi
 
 The networked state meta-universe creates an ecosystem where users can participate in virtual self-governance, economy and social life. An important part is the tokenization mechanism that provides the ability to exchange assets, purchase virtual real estate and obtain digital citizenship. Interaction between users is based on decentralized solutions, which ensures transparency and data protection.
 
-##**4. Blockchain and Web3**
+## **4. Blockchain and Web3**
 
 Blockchain is the backbone of the digital state, providing:
 - **Decentralized governance** through DAOs
@@ -48,7 +48,17 @@ Blockchain is the backbone of the digital state, providing:
 - **Voting**: decisions are made by citizens via smart contracts
 - **Cybersecurity**: protecting personal data and transactions
 
-###**Tokenomics**
+### **Tokenomics**
 - Main currency - Utility token for settlements
 - NFT domains, virtual real estate and digital artifacts
 - Hybrid revenue model: subscriptions, in-game purchases, Play-to-Earn
+
+## **5. AI agents and digital personas**
+
+Artificial intelligence plays a key role in the functioning of the networked state:
+### **Digital Copies and Digital Personas**
+- **AI citizens** are digital personas that are digital copies of the users/citizens of the networked state. These copies are created based on the data, preferences and behaviors of real users, allowing them to act autonomously or as assistants in the digital space. AI citizens can participate in economic activities, governance, social interactions and decision making through DAOs. They can evolve by learning from experiences and interactions with other actors, creating a unique digital ecosystem.
+- **Digital personas** are artificial personalities created from averaged (balanced) data of all users/citizens. These AI models are formed by analyzing collective preferences, behavioral patterns, and community values, creating balanced and objective digital entities that can serve as mediators, community leaders, advisors, or moderators within the networked state.
+- **Personalized AI assistants** - help with navigation, learning and working
+- **Automated services** - legal advice, financial management, user support
+- **Ethics and regulation** - mechanism for controlling AI actions through DAOs
