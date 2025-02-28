@@ -1,4 +1,4 @@
-## H3110 7H3R3 👋
+## H1 7H3R3 👋
 
 ## **1. Introduction**
 In today's world, the boundaries between physical and digital space are gradually blurring. The development of blockchain, artificial intelligence and meta-universes opens up the possibility of creating a new format of states - networked states existing in the digital space. We propose an innovative project combining elements of meta-universe, blockchain technologies and AI agents, creating a unique digital society with decentralized governance.
@@ -39,3 +39,16 @@ The metaverse is the basic space of existence of the networked state. It is a vi
 - **Digital identity protocols** for secure interaction
 
 The networked state meta-universe creates an ecosystem where users can participate in virtual self-governance, economy and social life. An important part is the tokenization mechanism that provides the ability to exchange assets, purchase virtual real estate and obtain digital citizenship. Interaction between users is based on decentralized solutions, which ensures transparency and data protection.
+
+##**4. Blockchain and Web3**
+
+Blockchain is the backbone of the digital state, providing:
+- **Decentralized governance** through DAOs
+- **Economy**: own token, NFT assets, DeFi-instruments
+- **Voting**: decisions are made by citizens via smart contracts
+- **Cybersecurity**: protecting personal data and transactions
+
+###**Tokenomics**
+- Main currency - Utility token for settlements
+- NFT domains, virtual real estate and digital artifacts
+- Hybrid revenue model: subscriptions, in-game purchases, Play-to-Earn
