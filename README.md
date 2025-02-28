@@ -10,10 +10,32 @@ In today's world, the boundaries between physical and digital space are graduall
 - Citizens who want to participate in the governance of the future
 
 ## **2. Project Vision**
-We are building the first fully digital community where governance, economy and interaction between citizens are based on decentralized technologies. The networked state in our concept is a self-governing ecosystem that unites participants by interests, professional skills and worldview, without geographical and other limitations.
+We are building the first fully digital community where governance, economy and interaction between citizens are based on decentralized technologies. The networked state in our concept is a self-governing ecosystem that unites participants by interests, professional skills and worldview, without geographical or any other limitations.
 
 ### **Core principles:**
 - **Decentralization** - governance through a DAO (decentralized autonomous organization)
 - **Transparency** - all decisions and transactions are recorded on the blockchain
 - **Virtual economy** - own internal currency and assets in the form of NFTs
 - **Artificial intelligence** - personal digital assistants and automated processes
+
+## **3. Metaverse**
+
+The metaverse is the basic space of existence of the networked state. It is a virtual environment that integrates the social, economic, educational, and entertainment aspects of the lives of digital citizens. Within the metaverse, users can work, learn, manage digital assets and interact with each other in a secure and decentralized environment.
+
+### **The main elements of the meta universe are:**
+- **Experimental Environment** - A platform for conducting social, political and economic experiments in a secure and controlled environment. Allows to simulate different scenarios of governance, interaction and economy, testing new decision-making mechanisms.
+- **Social spaces** - virtual cities, business centers, educational sites
+- **Work environments** - remote offices, virtual conferences, freelance economies
+- **Entertainment venues** - concerts, cybersports, game worlds
+- **Educational hubs** - courses, master classes and simulations
+- **Virtual real estate** - buying, renting and developing digital spaces
+- **Civic infrastructure** - digital passports, rights and identity management via blockchain
+
+### **Technological basis**
+- **Graphics Engine**: Unity / three.js
+- **VR/AR support** for full immersion
+- **Web3 integration** via blockchain and smart contracts
+- **Decentralized storage** for user data
+- **Digital identity protocols** for secure interaction
+
+The networked state meta-universe creates an ecosystem where users can participate in virtual self-governance, economy and social life. An important part is the tokenization mechanism that provides the ability to exchange assets, purchase virtual real estate and obtain digital citizenship. Interaction between users is based on decentralized solutions, which ensures transparency and data protection.
